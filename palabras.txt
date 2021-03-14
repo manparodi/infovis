@@ -1,0 +1,7 @@
+Visual encodings
+postion encodings
+quantile
+Mechanical turk
+multivariate data
+multiscale inferences
+force directed layout
