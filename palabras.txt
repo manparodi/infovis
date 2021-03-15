@@ -1,7 +1,12 @@
 Visual encodings
+q-q plots
 postion encodings
+phylogenetic
 quantile
+dendrogram
 Mechanical turk
+ill-fated
 multivariate data
+adjacency diagram
 multiscale inferences
 force directed layout
